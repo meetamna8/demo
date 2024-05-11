@@ -1,4 +1,4 @@
 # demo
 learning Git and Github
 <br>
-Amna Rubab
+Amna (Python Developer)
